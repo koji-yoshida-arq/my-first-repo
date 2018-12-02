@@ -2,3 +2,7 @@
 はじめてのGitリポジトリ
 
 first
+
+second
+
+third
